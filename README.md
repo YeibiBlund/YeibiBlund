@@ -1,6 +1,6 @@
 <div align="center">
-<h1 align="center">Hola<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">. Mi nombre es Bruno</h1>
-<h4 align="center">Desarrollador Multiplataforma Jr, mira mi <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">Portfolio</a> para saber mas sobre mi.</h4>
+    <h1 align="center"><span style="color: white; font-weight: bold;">Hola<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">. Mi nombre es Bruno</span></h1>
+    <h4 align="center">Desarrollador Multiplataforma Jr, mira mi <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank"><span style="color: white;">Portfolio</span></a> para saber más sobre mí.</h4>
 </div>
 
 <div align="center">
