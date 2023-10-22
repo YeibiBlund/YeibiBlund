@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hola <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, Soy Bruno</h1>
-<h4 align="center">Desarrollador de Aplicaciones Multiplataforma, mira mi <a href="https://jb-jrdev.netlify.app" target="_blank">Portfolio</a> para mas información.</h4>
+<h4 align="center">Desarrollador de Aplicaciones Multiplataforma, mira mi perfil para mas información.</h4>
 </div>
 
 <div align="center">
