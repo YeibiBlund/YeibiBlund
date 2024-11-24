@@ -21,7 +21,7 @@
   <div>
     <h2 align="center">Conecta conmigo:</h2>
     <p align="center">
-      <a href="https://www.linkedin.com/in/josé-bruno-cuevas-roman/" target="_blank">
+      <a href="https://www.linkedin.com/in/josebrunocuevas/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
       </a>
       <a href="mailto:jb.dev.019@gmail.com" target="_blank">
