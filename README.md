@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>¡Hola <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, Soy José Bruno!</h1>
+  <h1>¡Hola <img width="35" src="https://media.giphy.com/media/3o7aD3tjsSgD4fXYc4/giphy.gif">, Soy José Bruno!</h1>
   <h4>Desarrollador Full Stack & Tester | Apasionado por la programación y el aprendizaje continuo</h4>
   <p>Bienvenido a mi perfil, donde comparto proyectos, experiencias y mi camino como profesional en tecnología.</p>
 </div>
