@@ -6,10 +6,10 @@
 
 <div align="center">
   <!-- Gráfico de contribuciones en GitHub -->
-  <a href="https://github.com/josebrunocuevas" target="_blank">
+  <a href="https://github.com/YeibiBlund" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josebrunocuevas&layout=compact&hide_border=true&theme=radical" alt="Lenguajes principales" />
   </a>
-  <a href="https://github.com/josebrunocuevas" target="_blank">
+  <a href="https://github.com/YeibiBlund" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=josebrunocuevas&show_icons=true&hide_border=true&theme=radical" alt="Estadísticas GitHub" />
   </a>
 </div>
