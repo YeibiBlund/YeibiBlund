@@ -4,12 +4,9 @@
 
   <h1>👋 ¡Hola, Soy José Bruno!</h1>
   <p>
-    <strong>🌟 Desarrollador Full Stack | 🚀 Constructor de Soluciones Digitales</strong>
+    <strong>🌟 Desarrollador Full Stack </strong>
   </p>
-  <p>
-    Mi misión es transformar ideas en productos tecnológicos de impacto. En este perfil encontrarás mis 
-    proyectos, logros y un vistazo a mi pasión por el código y el diseño.
-  </p>
+
 </div>
 
 <div align="center">
