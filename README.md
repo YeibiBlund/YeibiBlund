@@ -1,7 +1,4 @@
 <div align="center">
-  <!-- Banner con una URL confiable -->
-  <img src="https://source.unsplash.com/random/1200x300/?coding,technology,developer" alt="Banner tecnológico" width="100%" />
-
   <h1>👋 ¡Hola, Soy José Bruno!</h1>
   <p>
     <strong>🌟 Desarrollador Full Stack | 🚀 Constructor de Soluciones Digitales</strong>
