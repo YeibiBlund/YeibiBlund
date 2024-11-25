@@ -1,29 +1,33 @@
 <div align="center">
+  <!-- Banner con una URL confiable -->
+  <img src="https://source.unsplash.com/random/1200x300/?coding,technology,developer" alt="Banner tecnológico" width="100%" />
 
-  <h1>¡Hola! 👋 Soy José Bruno</h1>
+  <h1>👋 ¡Hola, Soy José Bruno!</h1>
   <p>
-    Desarrollador Full Stack | Make it EASY
+    <strong>🌟 Desarrollador Full Stack | 🚀 Constructor de Soluciones Digitales</strong>
+  </p>
+  <p>
+    Mi misión es transformar ideas en productos tecnológicos de impacto. En este perfil encontrarás mis 
+    proyectos, logros y un vistazo a mi pasión por el código y el diseño.
   </p>
 </div>
 
 <div align="center">
-  <!-- Gráfico de contribuciones -->
-  <a href="https://github.com/YeibiBlund">
-    <img src="https://activity-graph.herokuapp.com/graph?username=YeibiBlund&theme=github" alt="Gráfico de contribuciones" />
+  <a href="https://github.com/YeibiBlund" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=YeibiBlund&show_icons=true&hide_border=true&theme=gruvbox" alt="Estadísticas GitHub" width="48%" />
   </a>
-
-  <!-- Resumen visual del perfil -->
-  <a href="https://github.com/YeibiBlund">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YeibiBlund&theme=github" alt="Resumen del perfil" />
+  <a href="https://github.com/YeibiBlund" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeibiBlund&layout=compact&hide_border=true&theme=gruvbox" alt="Lenguajes principales" width="48%" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <h2>¿Hablamos?</h2>
+  <h2>📬 ¿Listo para conectar?</h2>
   <p>
-   ¿Hablamos?
+    Estoy disponible para colaboraciones, consultas técnicas o simplemente para charlar sobre tecnología. 
+    ¡No dudes en escribirme!
   </p>
   <p>
     <a href="https://www.linkedin.com/in/josebrunocuevas/" target="_blank">
@@ -38,7 +42,7 @@
 ---
 
 <div align="center">
-  <h2>Tecnologías que uso:</h2>
+  <h2>💡 Tecnologías y Stacks</h2>
   <p>
     <!-- Lenguajes -->
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25" />
